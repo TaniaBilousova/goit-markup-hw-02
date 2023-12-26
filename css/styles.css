@@ -1,5 +1,5 @@
 body {
-font-family: 'Roboto',sans-serif;
+font-family: 'Roboto' 'Raleway',sans-serif;
 color: #434455;
 background-color: #FFFFFF;
 }
@@ -8,8 +8,10 @@ ul{list-style: none;}
 
 /**-------------Header-----------*/
 .header-logo {
+font-family: Raleway;
 font-size: 18px;
 font-weight: 700;
+text-transform: uppercase;
 line-height: 1.17;
 letter-spacing: 0.03em;
 color:#4D5AE5;
@@ -29,6 +31,7 @@ color: #2E2F42;
 .address-link{
 font-size: 16px;
 line-height: 1.5;
+font-style: normal;
 letter-spacing: 0.02em;
 text-align: left;
 color:#434455;
