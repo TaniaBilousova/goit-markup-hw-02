@@ -1,5 +1,5 @@
 body {
-font-family: 'Roboto',sans-serif,'Raleway',sans-serif;
+font-family: 'Roboto',sans-serif;
 color: #434455;
 background-color: #FFFFFF;
 }
@@ -27,6 +27,13 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
+.header-menu-item:hover{
+color: #404bbf;
+}
+.header-menu-item:focus{
+color: #404bbf;
+}
+
 
 .address-link{
 font-size: 16px;
@@ -36,10 +43,10 @@ letter-spacing: 0.02em;
 color:#434455;
 }
 .address-link:hover{
-color: #404bbf
+ background: #404bbf;
 }
 .address-link:focus{
-color: #404bbf
+background: #404bbf;
 }
 /**------------------------*/
 /**-------------Hero-----------*/
@@ -49,8 +56,8 @@ font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
-color:#FFFFFF;
-background:#2e2f42;
+color: #FFFFFF;
+background: #2E2F42;
 }
 
 .hero-order-btn{
@@ -62,21 +69,14 @@ letter-spacing: 0.04em;
 text-align: left;
 cursor: pointer;
 color: #FFFFFF;
-width: Hug (169px);
-height: Hug (56px);
-top: 428px;
-left: 636px;
-padding: 16px, 32px, 16px, 32px;
-border-radius: 4px;
-gap: 10px;
 background: #4D5AE5;
 }
 .hero-order-btn:hover {
-background-color: #404BBF
+color: #404BBF;
 }
 
 .hero-order-btn:focus {
-background-color: #404BBF
+background-color: #404BBF;
 }
 .features-item{
 font-size: 20px;
