@@ -1,5 +1,5 @@
 body {
-font-family: 'Roboto' 'Raleway',sans-serif;
+font-family: 'Roboto','Raleway',sans-serif;
 color: #434455;
 background-color: #FFFFFF;
 }
@@ -11,9 +11,9 @@ ul{list-style: none;}
 font-family: Raleway;
 font-size: 18px;
 font-weight: 700;
-text-transform: uppercase;
-line-height: 1.17;
+line-height: 1,17;
 letter-spacing: 0.03em;
+
 color:#4D5AE5;
 }
 .header-part{
@@ -24,7 +24,6 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
-text-align: left;
 color: #2E2F42;
 }
 
@@ -33,7 +32,6 @@ font-size: 16px;
 line-height: 1.5;
 font-style: normal;
 letter-spacing: 0.02em;
-text-align: left;
 color:#434455;
 }
 .address-link:hover{
