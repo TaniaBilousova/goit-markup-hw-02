@@ -1,5 +1,5 @@
 body {
-font-family: 'Roboto','Raleway',sans-serif;
+font-family: 'Roboto',sans-serif,'Raleway',sans-serif;
 color: #434455;
 background-color: #FFFFFF;
 }
@@ -43,16 +43,18 @@ color: #404bbf
 }
 /**------------------------*/
 /**-------------Hero-----------*/
-.hero{font-size: 56px;
+.hero-title{
+font-size: 56px;
 font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color:#FFFFFF;
-background:#434455 ;
+background:#2e2f42;
 }
 
 .hero-order-btn{
+font-family: 'Roboto',sans-serif;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
@@ -68,6 +70,13 @@ padding: 16px, 32px, 16px, 32px;
 border-radius: 4px;
 gap: 10px;
 background: #4D5AE5;
+}
+.hero-order-btn:hover {
+background-color: #404BBF
+}
+
+.hero-order-btn:focus {
+background-color: #404BBF
 }
 .features-item{
 font-size: 20px;
