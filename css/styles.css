@@ -31,7 +31,7 @@ color: #2E2F42;
 color: #2E2F42;
 }
 .header-menu-item:focus{
-color: #404bbf;
+color: #2E2F42;
 }
 
 
@@ -68,7 +68,7 @@ letter-spacing: 0.04em;
 text-align: left;
 cursor: pointer;
 color: #FFFFFF;
-background: #4D5AE5;
+background:#4D5AE5;;
 }
 .hero-order-btn:hover {
 color: #404BBF;
