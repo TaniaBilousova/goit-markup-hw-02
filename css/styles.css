@@ -1,0 +1,146 @@
+body {
+font-family: 'Roboto',sans-serif;
+}
+a{text-decoration: none;}
+ul{list-style: none;}
+
+/**-------------Header-----------*/
+.header-logo {
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.03em;
+text-align: left;
+color:#4D5AE5;
+}
+.header-part{
+color: #2E2F42;
+}
+.header-menu-item{
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: left;
+color: #2E2F42;
+}
+
+.address-link{
+font-size: 16px;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: left;
+color:#434455;
+}
+.address-link:hover{
+color:#4D5AE5
+}
+.address-link:focus{
+color: #4D5AE5
+}
+/**------------------------*/
+/**-------------Hero-----------*/
+.hero{font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color:#FFFFFF;
+background:#434455 ;
+}
+
+.hero-order-btn{
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+text-align: left;
+cursor: pointer;
+color: #FFFFFF;
+width: Hug (169px);
+height: Hug (56px);
+top: 428px;
+left: 636px;
+padding: 16px, 32px, 16px, 32px;
+border-radius: 4px;
+gap: 10px;
+background: #4D5AE5;
+}
+.features-item{
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #2E2F42;
+}
+.features-item-reference{
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #434455;;
+}
+.visually-hidden {
+position: absolute;
+width: 1px;
+height: 1px;
+margin: -1px;
+border: 0;
+padding: 0;
+white-space: nowrap;
+clip-path: inset(100%);
+clip: rect(0 0 0 0);
+overflow: hidden;
+}
+/**---------------------------*/
+/**-------------Team-----------*/
+.team{
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2E2F42;
+}
+.team-list-members{
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color:#2E2F42;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+/**--------------------------*/
+/**-------------Footer-----------*/
+.footer{
+background: #2E2F42;
+}
+.footer-logo{
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.03em;
+text-align: left;
+color: #4D5AE5;
+}
+.footer-part{
+color: #F4F4FD;
+}
+.footer-text{
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: left;
+color: #F4F4FD;
+}
+/**--------------------------*/
+    
