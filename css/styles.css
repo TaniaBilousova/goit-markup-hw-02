@@ -12,7 +12,7 @@ font-family: Raleway,sans-serif;
 font-size: 18px;
 font-weight: 700;
 text-transform: uppercase;
-line-height: 1.23;
+line-height: 1.17;
 letter-spacing: 0.03em;
 
 color:#4D5AE5;
@@ -29,18 +29,24 @@ letter-spacing: 0.02em;
 text-align: left;
 color:#2E2F42;;
 }
-
+.header-menu-item:hover{
+ color: #404bbf;   
+}
+.header-menu-item:focus{
+color: #404bbf;
+}
 .address-link{
 font-size: 16px;
 line-height: 1.5;
+font-style: normal;
 letter-spacing: 0.02em;
 color:#434455;
 }
 .address-link:hover{
- 
+color: #404bbf;
 }
 .address-link:focus{
-
+color: #404bbf;
 }
 /**------------------------*/
 /**-------------Hero-----------*/
@@ -63,7 +69,7 @@ letter-spacing: 0.04em;
 text-align: left;
 cursor: pointer;
 color: #FFFFFF;
-background:#4D5AE5;;
+background:#4D5AE5;
 }
 .hero-order-btn:hover {
 
@@ -85,7 +91,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: left;
-color: #434455;;
+color: #434455;
 }
 .visually-hidden {
 position: absolute;
