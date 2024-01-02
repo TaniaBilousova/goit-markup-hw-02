@@ -80,19 +80,9 @@ background-color: #404BBF;
 background-color: #404BBF;
 }
 
-.features-list{
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-}
+
 
 .features-item{
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
-text-align: left;
 color: #2E2F42;
 }
 .features-item-reference{
