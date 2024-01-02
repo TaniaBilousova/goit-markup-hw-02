@@ -38,7 +38,6 @@ color: #404bbf;
 .address-link{
 font-size: 16px;
 line-height: 1.5;
-font-style: normal;
 letter-spacing: 0.02em;
 color:#434455;
 }
@@ -54,6 +53,7 @@ color: #404bbf;
 font-size: 56px;
 font-weight: 700;
 line-height: 1.07;
+background-color:#2e2f42;
 letter-spacing: 0.02em;
 text-align: center;
 color: #FFFFFF;
@@ -72,7 +72,7 @@ color: #FFFFFF;
 background:#4D5AE5;
 }
 .hero-order-btn:hover {
-
+background-color: #404BBF;
 }
 
 .hero-order-btn:focus {
