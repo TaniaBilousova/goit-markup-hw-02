@@ -75,14 +75,14 @@ background-color: #404BBF;
 .features-item{
 font-size: 20px;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: left;
 color: #2E2F42;
 }
 .features-item-reference{
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: left;
 color: #434455;;
@@ -108,7 +108,6 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
-background: #F4F4FD;
 }
 .team-list-members{
 font-size: 20px;
