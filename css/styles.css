@@ -38,6 +38,7 @@ color: #404bbf;
 .address-link{
 font-size: 16px;
 line-height: 1.5;
+font-style: normal;
 letter-spacing: 0.02em;
 color:#434455;
 }
@@ -56,16 +57,21 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #FFFFFF;
+background-color: #2e2f42;
+width: 1440px;
+height: 600px;
+top: 72px;
 
 }
 
 .hero-order-btn{
 font-family: 'Roboto',sans-serif;
-font-size: 16px;
-font-weight: 500;
-line-height: 1.5;
-letter-spacing: 0.04em;
-text-align: left;
+width: Hug (169px);
+height: Hug (56px);
+top: 428px;
+left: 636px;
+padding: 16px, 32px, 16px, 32px;
+border-radius: 4px;
 cursor: pointer;
 color: #FFFFFF;
 background:#4D5AE5;
@@ -131,7 +137,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color:#2E2F42;
-background: #F4F4FD;
+background: #FFFFFF;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
