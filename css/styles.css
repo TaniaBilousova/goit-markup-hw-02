@@ -91,10 +91,7 @@ text-align: left;
 color: #2E2F42;
 }
 .features-list-guide{
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
+
 }
 .features-item-reference{
 font-size: 16px;
@@ -128,11 +125,7 @@ color: #2E2F42;
 background-color: #F4F4FD;
 }
 .team-list{
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-color: #2e2f42;
-letter-spacing: 0.02em;
+
 }
 .team-list-members{
 font-size: 20px;
