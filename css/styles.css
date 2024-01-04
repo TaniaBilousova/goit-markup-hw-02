@@ -127,7 +127,10 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 .team-list-members{
+font-size: 20px;
+line-height: 1.2;
 color: #434455;
+background-color: #FFFFFF;
 }
 .features-item-team{
 font-size: 16px;
