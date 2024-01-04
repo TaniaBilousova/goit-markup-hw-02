@@ -112,11 +112,12 @@ color: #434455;
 /**-------------Team-----------*/
 .team{
 background-color: #F4F4FD;
+
 }
 .team-title{
-font-size: 36px;
+font-size: 20px;
 font-weight: 700;
-line-height: 1.11;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
@@ -141,6 +142,7 @@ background-color: #FFFFFF;
 }
 .features-item-team{
 font-size: 16px;
+line-height: 1.5;
 }
 .team-list-options{
 font-size: 20px;
