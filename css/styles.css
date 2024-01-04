@@ -134,8 +134,11 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 .team-list-title{
+font-weight: 500;
+letter-spacing: 0.02em;
 font-size: 20px;
 line-height: 1.2;
+color: #2e2f42;
 }
 .team-list-members{
 font-size: 16px;
