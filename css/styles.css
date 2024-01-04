@@ -112,8 +112,6 @@ color: #434455;
 /**-------------Team-----------*/
 .team{
 background-color: #F4F4FD;
-font-size: 20px;
-line-height: 1.2;
 }
 .team-title{
 font-size: 36px;
@@ -134,6 +132,10 @@ color: #2E2F42;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+}
+.team-list-title{
+font-size: 20px;
+line-height: 1.2;
 }
 .team-list-members{
 font-size: 16px;
