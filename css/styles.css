@@ -35,6 +35,9 @@ align-items: center;
 }
 .header{
 border-bottom: 1px solid #e7e9fc;
+width: 1440px;
+height: 72px;
+border: 1px;
 }
 .header-logo {
 font-family: Raleway,sans-serif;
