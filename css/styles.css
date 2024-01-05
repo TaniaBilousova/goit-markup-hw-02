@@ -52,6 +52,12 @@ left: 156px;
 .header-part{
 color: #2E2F42;
 }
+
+.header-menu-list{
+display: flex;
+gap: 40px;
+}
+
 .header-menu-item{
 font-family: Roboto;
 font-size: 16px;
@@ -59,8 +65,8 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color:#2E2F42;
-width: Hug (261px);
-height: Hug (24px);
+width:261px;
+height: Hug 24px;
 top: 24px;
 left: 347px;
 gap: 40px;
