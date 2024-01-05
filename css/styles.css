@@ -24,7 +24,6 @@ width: 1158px;
 padding-left: 15px;
 padding-right: 15px;
 margin: 0 auto;
-display: flex;
 }
 
 
@@ -94,7 +93,9 @@ color: #404bbf;
 background-color: #2e2f42;
 width: 1440px;
 height: 600px;
-top: 72px
+top: 72px;
+padding-top: 188px;
+padding-bottom: 188px;
 }
 .hero-title{
 font-size: 56px;
@@ -103,6 +104,10 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #FFFFFF;
+width: 496px;
+height: 120px;
+top: 260px;
+left: 472px;
 }
 
 .hero-order-btn{
@@ -114,6 +119,14 @@ letter-spacing: 0.04em;
 cursor: pointer;
 color: #FFFFFF;
 background:#4D5AE5;
+width: 169px;
+height: 56px;
+top: 428px;
+left: 636px;
+padding: 16px, 32px, 16px, 32px;
+border-radius: 4px;
+gap: 10px;
+border: none;
 }
 .hero-order-btn:hover {
 background-color: #404BBF;
