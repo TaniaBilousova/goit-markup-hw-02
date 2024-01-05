@@ -35,9 +35,6 @@ align-items: center;
 }
 .header{
 border-bottom: 1px solid #e7e9fc;
-width: 1440px;
-height: 72px;
-border: 1px;
 }
 .header-logo {
 font-family: Raleway,sans-serif;
@@ -47,6 +44,11 @@ text-transform: uppercase;
 line-height: 1.17;
 letter-spacing: 0.03em;
 color:#4D5AE5;
+margin-right: 76px;
+width: Hug (115px);
+height: Fixed (24px);
+top: 24px;
+left: 156px;
 }
 .header-part{
 color: #2E2F42;
