@@ -161,6 +161,11 @@ background-color: #404BBF;
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+
+.features{
+padding-top: 120px;
+padding-bottom: 120px ;
+}
 .features-list{
 display: flex;
 width: 1128px;
@@ -176,6 +181,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: left;
 color: #2e2f42;
+margin-bottom: 8px;
 }
 
 
