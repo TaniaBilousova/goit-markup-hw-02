@@ -28,17 +28,14 @@ margin: 0 auto;
 
 
 /**-------------Header-----------*/
-.header-navigation{
-display: flex;
-padding-top: 24px;
-padding-bottom: 24px;
-align-items: center;
 
-}
 .header{
 border-bottom: 1px solid #e7e9fc;
 }
 .header-container{
+display: flex;
+}
+.header-navigation{
 display: flex;
 }
 .header-logo {
@@ -61,10 +58,9 @@ color: #2E2F42;
 
 .header-menu-list{
 display: flex;
-gap: 40px;
 padding-top: 24px;
 padding-bottom: 24px;
-display: flex;
+gap: 40px;
 }
 
 .header-menu-item{
