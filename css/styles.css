@@ -184,6 +184,8 @@ color: #434455;
 /**-------------Team-----------*/
 .team{
 background-color: #F4F4FD;
+padding-top: 100px;
+padding-bottom: 120px;
 }
 .team-title{
 font-size: 36px;
@@ -193,6 +195,7 @@ letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
 color: #2E2F42;
+margin-bottom: 72px;
 }
 .team-list{
 font-size: 20px;
@@ -204,6 +207,8 @@ color: #2E2F42;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+display: flex;
+gap: 24px;
 }
 .team-list-title{
 font-weight: 500;
