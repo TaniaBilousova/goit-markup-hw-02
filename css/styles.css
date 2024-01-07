@@ -67,6 +67,7 @@ gap: 40px;
 .header-menu-link{
 padding-top: 24px;
 padding-bottom: 24px;
+align-items: center;
 }
 
 .header-menu-item{
@@ -103,6 +104,26 @@ color: #404bbf;
 }
 .address-link:focus{
 color: #404bbf;
+}
+
+.list-nav{
+display: flex;
+gap: 40px;
+}
+
+.list-nav-mail{
+width: 153px; 
+height: 24px;
+top: 24px;
+left: 940px;
+}
+
+.list-nav-phone{
+width: 151px;
+height: 24px;
+top: 24px;
+left: 1133px;
+margin-right: 0 auto;
 }
 /**------------------------*/
 /**-------------Hero-----------*/
