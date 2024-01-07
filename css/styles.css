@@ -161,7 +161,14 @@ background-color: #404BBF;
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-
+.features-list{
+display: flex;
+width: 1128px;
+height: 104px;
+top: 792px;
+left: 156px;
+gap: 24px;
+}
 .features-list-guide{
 font-size: 20px;
 font-weight: 500;
