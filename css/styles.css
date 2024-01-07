@@ -209,6 +209,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 display: flex;
 gap: 24px;
+flex-wrap: wrap;
+row-gap: 48px;
 }
 .team-list-title{
 font-weight: 500;
