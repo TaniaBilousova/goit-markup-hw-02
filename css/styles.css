@@ -250,7 +250,6 @@ letter-spacing: 0.02em;
 display: flex;
 gap: 24px;
 flex-wrap: wrap;
-
 }
 .team-list-title{
 font-weight: 500;
@@ -269,6 +268,7 @@ background-color: #FFFFFF;
 .team-img{
 display: block;
 gap: 24px;
+border-radius: 0px 0px 4px 4px;
 }
 
 .team-memebers{
