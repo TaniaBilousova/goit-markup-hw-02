@@ -270,11 +270,28 @@ background-color: #FFFFFF;
 display: block;
 }
 
-.team-memebers{
+.team-memebers-first{
 border-radius: 0px 0px 4px 4px;
 padding-top: 32px;
 padding-bottom: 32px;
 gap: 24px;
+}
+.team-memebers-second{
+border-radius: 0px 0px 4px 4px;
+padding-top: 32px;
+padding-bottom: 32px;
+gap: 24px;
+}
+.team-memebers-third{
+border-radius: 0px 0px 4px 4px;
+padding-top: 32px;
+padding-bottom: 32px;
+gap: 24px;
+}
+.team-memebers-fourth{
+border-radius: 0px 0px 4px 4px;
+padding-top: 32px;
+padding-bottom: 32px;
 margin-right: 0;
 }
 .features-list-guide{
