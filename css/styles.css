@@ -37,6 +37,7 @@ display: flex;
 }
 .header-navigation{
 display: flex;
+align-items: center;
 }
 .header-logo {
 font-family: Raleway,sans-serif;
@@ -61,6 +62,11 @@ display: flex;
 padding-top: 24px;
 padding-bottom: 24px;
 gap: 40px;
+}
+
+.header-menu-link{
+padding-top: 24px;
+padding-bottom: 24px;
 }
 
 .header-menu-item{
