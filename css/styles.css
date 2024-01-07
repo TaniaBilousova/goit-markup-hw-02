@@ -30,7 +30,10 @@ margin: 0 auto;
 /**-------------Header-----------*/
 .header-navigation{
 display: flex;
+padding-top: 24px;
+padding-bottom: 24px;
 align-items: center;
+
 }
 .header{
 border-bottom: 1px solid #e7e9fc;
@@ -47,8 +50,8 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 color:#4D5AE5;
 margin-right: 76px;
-width: Hug (115px);
-height: Fixed (24px);
+width: 115px;
+height: 4px;
 top: 24px;
 left: 156px;
 }
@@ -61,6 +64,7 @@ display: flex;
 gap: 40px;
 padding-top: 24px;
 padding-bottom: 24px;
+display: flex;
 }
 
 .header-menu-item{
@@ -71,7 +75,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:#2E2F42;
 width:261px;
-height: Hug 24px;
+height: 24px;
 top: 24px;
 left: 347px;
 gap: 40px;
