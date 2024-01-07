@@ -265,10 +265,25 @@ line-height: 1.5;
 color: #434455;
 background-color: #FFFFFF;
 }
+
+.team-img{
+display: block;
+}
+
+.team-memebers{
+border-radius: 0px 0px 4px 4px;
+padding-top: 32px;
+padding-bottom: 32px;
+}
+.features-list-guide{
+margin-bottom: 8px;
+text-align: center;
+}
 .features-item-team{
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
+text-align: center;
 }
 
 .team-list-options{
